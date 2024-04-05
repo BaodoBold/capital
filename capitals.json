@@ -2,6 +2,7 @@
       "TH": 
         {
           "name": "Bangkok",
+          "capital": "Bangkok",
           "latitude": 13.7563,
           "longitude": 100.5018
         },
@@ -9,6 +10,7 @@
       "CM":
         {
           "name": "Chiang Mai",
+          "capital": "Chiang Mai",
           "latitude": 18.7877,
           "longitude": 98.9931
         },
@@ -16,6 +18,7 @@
       "PK":
         {
           "name": "Phuket",
+          "capital": "Phuket",
           "latitude": 7.8804,
           "longitude": 98.3923
         },
@@ -23,6 +26,7 @@
       "HCM":
         {
           "name": "Ho Chi Minh City",
+          "capital": "Ho Chi Minh City",
           "latitude": 10.8231,
           "longitude": 106.6297
         },
@@ -30,12 +34,14 @@
       "HN":
         {
           "name": "Hanoi",
+          "capital": "Hanoi",
           "latitude": 21.0285,
           "longitude": 105.8542
         },
       "DN":
         {
           "name": "Da Nang",
+          "capital": "Da Nang",
           "latitude": 16.0544,
           "longitude": 108.2022
         },
@@ -43,36 +49,42 @@
       "VT":
         {
           "name": "Vientiane",
+          "capital": "Vientiane",
           "latitude": 17.9757,
           "longitude": 102.6331
         },
       "LP":
         {
           "name": "Luang Prabang",
+          "capital": "Luang Prabang",
           "latitude": 19.8833,
           "longitude": 102.1333
         },
       "PA":
         {
           "name": "Pakse",
+          "capital": "Pakse",
           "latitude": 15.1201,
           "longitude": 105.8019
         },
       "PR":
         {
           "name": "Phnom Penh",
+          "capital": "Phnom Penh",
           "latitude": 11.5564,
           "longitude": 104.9282
         },
       "SR":
         {
           "name": "Siem Reap",
+          "capital": "Siem Reap",
           "latitude": 13.3671,
           "longitude": 103.8449
         },
       "SL":
         {
           "name": "Sihanoukville",
+          "capital": "Sihanoukville",
           "latitude": 10.617,
           "longitude": 103.5503
         }
