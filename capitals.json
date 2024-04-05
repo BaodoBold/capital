@@ -2,7 +2,7 @@
       "TH": 
         {
           "name": "Bangkok",
-          "capital": "Bangkok",
+          "capital": "Ba",
           "latitude": 13.7563,
           "longitude": 100.5018
         },
@@ -10,7 +10,7 @@
       "CM":
         {
           "name": "Chiang Mai",
-          "capital": "Chiang Mai",
+          "capital": "BK",
           "latitude": 18.7877,
           "longitude": 98.9931
         },
@@ -18,7 +18,7 @@
       "PK":
         {
           "name": "Phuket",
-          "capital": "Phuket",
+          "capital": "P",
           "latitude": 7.8804,
           "longitude": 98.3923
         },
@@ -26,7 +26,7 @@
       "HCM":
         {
           "name": "Ho Chi Minh City",
-          "capital": "Ho Chi Minh City",
+          "capital": "Bangkk",
           "latitude": 10.8231,
           "longitude": 106.6297
         },
@@ -34,14 +34,14 @@
       "HN":
         {
           "name": "Hanoi",
-          "capital": "Hanoi",
+          "capital": "Bngkok",
           "latitude": 21.0285,
           "longitude": 105.8542
         },
       "DN":
         {
           "name": "Da Nang",
-          "capital": "Da Nang",
+          "capital": "Bangko",
           "latitude": 16.0544,
           "longitude": 108.2022
         },
@@ -49,42 +49,42 @@
       "VT":
         {
           "name": "Vientiane",
-          "capital": "Vientiane",
+          "capital": "ngkok",
           "latitude": 17.9757,
           "longitude": 102.6331
         },
       "LP":
         {
           "name": "Luang Prabang",
-          "capital": "Luang Prabang",
+          "capital": "BangGAk",
           "latitude": 19.8833,
           "longitude": 102.1333
         },
       "PA":
         {
           "name": "Pakse",
-          "capital": "Pakse",
+          "capital": "BangkÁDok",
           "latitude": 15.1201,
           "longitude": 105.8019
         },
       "PR":
         {
           "name": "Phnom Penh",
-          "capital": "Phnom Penh",
+          "capital": "BanQƯgkok",
           "latitude": 11.5564,
           "longitude": 104.9282
         },
       "SR":
         {
           "name": "Siem Reap",
-          "capital": "Siem Reap",
+          "capital": "BangƯQkok",
           "latitude": 13.3671,
           "longitude": 103.8449
         },
       "SL":
         {
           "name": "Sihanoukville",
-          "capital": "Sihanoukville",
+          "capital": "BangkGSok",
           "latitude": 10.617,
           "longitude": 103.5503
         }
