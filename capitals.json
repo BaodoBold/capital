@@ -127,5 +127,17 @@
         "capital": "Quon",
         "lat": 35.5384,
         "long": 129.3114
+      },
+       "SĐ":{
+        "name": "Sokcho",
+        "capital": "nug",
+        "lat": 38.2070,
+        "long": 128.5912
+      },
+       "PĐ":{
+        "name": "Donghae",
+        "capital": "",
+        "lat": 37.5079,
+        "long": 129.1140
       }
 }
