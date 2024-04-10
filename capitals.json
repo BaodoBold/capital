@@ -48,5 +48,55 @@
         "capital": "Qhn",
         "lat": 34.8450,
         "long": 128.4339
+      },
+    "EA":
+      {
+        "name": "Goyang",
+        "capital": "saaan",
+        "lat": 37.6564,
+        "long": 126.8351
+      },
+
+     "VI": {
+        "name": "Changwon",
+        "capital": "Vssk",
+        "lat": 35.2272,
+        "long": 128.6811
+      },
+      "BO":{
+        "name": "Songnam",
+        "capital": "Daejeona",
+        "lat": 37.4449,
+        "long": 127.1389
+      },
+      "LK":{
+        "name": "Bucheon",
+        "capital": "Bayae",
+        "lat": 37.4985,
+        "long": 126.7831
+      },
+      "IL":{
+        "name": "Anyang",
+        "capital": "Bju",
+        "lat": 37.3920,
+        "long": 126.9261
+      },
+      "ON":{
+        "name": "Gwangmyeongni",
+        "capital": "wwhw",
+        "lat": 37.4782,
+        "long": 126.8666
+      },
+      "QT":{
+        "name": "Gunpo",
+        "capital": "Boyke",
+        "lat": 37.3616,
+        "long": 126.9356
+      },
+      "IĐ":{
+        "name": "Guri",
+        "capital": "Qhwn",
+        "lat": 37.5985,
+        "long": 127.1391
       }
 }
