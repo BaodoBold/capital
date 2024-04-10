@@ -97,5 +97,35 @@
         "capital": "Qhwn",
         "lat": 37.5985,
         "long": 127.1391
+      },
+       "CL":{
+        "name": "Chuncheon",
+        "capital": "Bayae",
+        "lat": 37.8747,
+        "long": 127.7342
+      },
+       "WL":{
+        "name": "Andong",
+        "capital": "utg",
+        "lat": 36.5653,
+        "long": 128.7259
+      },
+       "VN":{
+        "name": "Pohang",
+        "capital": "",
+        "lat": 36.0190,
+        "long": 129.3410
+      },
+       "RT":{
+        "name": "Gyeongju",
+        "capital": "kyee",
+        "lat": 35.8562,
+        "long": 129.2249
+      },
+       "HĐ":{
+        "name": "Ulsan",
+        "capital": "Quon",
+        "lat": 35.5384,
+        "long": 129.3114
       }
 }
